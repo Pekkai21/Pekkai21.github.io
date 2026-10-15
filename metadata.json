@@ -1,0 +1,6 @@
+{
+  "name": "Marginalia - Journal & Critical Reviews",
+  "description": "An elegant personal publication and review journal for daily reflections, books, cinema, and philosophical inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
